@@ -28,19 +28,9 @@ My work brings together practical threat modeling, incident-response training, g
 
 ## Cloud/CyberSecurity Projects:
 
-### 🛡️ [Red Team Scanner — Agentic AI Security Mentor](https://github.com/RobTech904/Red_Team-Scanner)
+### 🛡️ [New Red Team Scanner — Agentic AI Security Mentor](https://github.com/RobTech904/New-Red_Team-Scanner/tree/main)
 
-An enterprise-focused AI security training platform that helps cybersecurity professionals, DevSecOps practitioners, and AI engineers practice defending agentic AI systems.
 
-| Capability | What it supports |
-| --- | --- |
-| Real-time security mentorship | Evaluates threat reasoning and highlights misconceptions during AI-security drills. |
-| Agentic incident simulations | Covers scenarios such as prompt injection, tool poisoning, orchestration loops, and privilege-escalation risks. |
-| Text and voice interaction | Supports streamed text interaction and real-time voice mentorship. |
-| Governance-ready exports | Produces Markdown and JSON debriefs for training review and audit workflows. |
-| Secure architecture focus | Emphasizes least privilege, human oversight, safe tool design, and auditability. |
-
-**Technology and architecture:** React · TypeScript · Vite · Tailwind CSS · Express · Server-Sent Events · WebSockets · Google GenAI · Google Cloud Run
 
 ## Areas of interest
 
