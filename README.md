@@ -26,7 +26,7 @@ My work brings together practical threat modeling, incident-response training, g
 - 📚 Working with: **OWASP guidance for LLM applications**, **MITRE ATLAS**, and the **NIST AI Risk Management Framework**
 - 📍 Based in: **Montgomery, Alabama**
 
-## Cloud/CyberSecurity Projects:
+## Agentic AI Projects:
 
 ### 🛡️ [New Red Team Scanner — Agentic AI Security Mentor](https://github.com/RobTech904/New-Red_Team-Scanner/tree/main)
 
